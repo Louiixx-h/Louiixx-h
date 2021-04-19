@@ -1,16 +1,16 @@
-### Hi there 👋
+# Luis Henrique
 
-<!--
-**Louiixx-h/Louiixx-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/badge/-@louishenriqk-16b210?style=flat-square&labelColor=16b210&logo=twitter&logoColor=fffffe&link=https://twitter.com/LuisHen02556571)](https://twitter.com/LuisHen02556571)
+[![Linkedin Badge](https://img.shields.io/badge/-Luis%20Henrique-16b210?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/louis.henrik/)](https://www.instagram.com/louis.henrik/) 
+[![Gmail Badge](https://img.shields.io/badge/-louix.sm@gmail.com-16b210?style=flat-square&logo=Gmail&logoColor=white&link=mailto:louix.sm@gmail.com)](mailto:louix.sm@gmail.com)
 
-Here are some ideas to get you started:
+- 📱 Desenvolvedor Android
+- 💻 Cofundor da [Devflow](https://www.instagram.com/devflow.br/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Habilidades
+
+- Android
+- Kotlin
+- Java
+- Spring Boot
+- Git Github
