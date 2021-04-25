@@ -10,12 +10,18 @@
 
 ### Habilidades
 
+<a>
 <img src="images/android.svg" width="48">
+</a>
+<a>
 <img src="images/kotlin.svg" width="48">
+</a>
+<a>
 <img src="images/java.svg" width="48">
+</a>
+<a>
 <img src="images/css3.svg" width="48">
+</a>
+<a>
 <img src="images/html-5.svg" width="48">
-
-<p align = "left"">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Louiixx-h&show_icons=true&theme=dracula">
-</p>
+</a>
