@@ -10,7 +10,7 @@
 
 ### Habilidades
 
-<a>
+<a style="float: left">
 <img src="images/android.svg" width="48">
 </a>
 <a>
