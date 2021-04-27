@@ -25,3 +25,6 @@
 <a>
 <img src="images/html-5.svg" width="48">
 </a>
+<a>
+<img src="images/mysql.svg" width="48">
+</a>
