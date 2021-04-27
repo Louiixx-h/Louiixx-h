@@ -10,19 +10,9 @@
 
 ### Habilidades
 
-<a>
 <img src="images/android.svg" width="48">
-</a>
-<a>
 <img src="images/kotlin.svg" width="48">
-</a>
-<a>
 <img src="images/java.svg" width="48">
-</a>
-<a>
 <img src="images/css3.svg" width="48">
-</a>
-<a>
 <img src="images/html-5.svg" width="48">
 <img src="images/mysql.svg" width="48">
-</a>
