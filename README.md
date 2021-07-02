@@ -24,4 +24,5 @@
 ### Database
 <div>
   <img src="images/mysql.svg" width="48">
+  <img src="images/postgresql.svg" width="48">
 </div>
