@@ -8,11 +8,20 @@
 - Cofundor da [Devflow](https://www.instagram.com/devflow.br/)
 - Estudante da tecnologia Android
 
-### Habilidades
+### Linguagens
+<div>
+  <img src="images/kotlin.svg" width="48">
+  <img src="images/java.svg" width="48">
+  <img src="images/css3.svg" width="48">
+  <img src="images/html-5.svg" width="48">
+</div>
 
-<img src="images/android.svg" width="48">
-<img src="images/kotlin.svg" width="48">
-<img src="images/java.svg" width="48">
-<img src="images/css3.svg" width="48">
-<img src="images/html-5.svg" width="48">
-<img src="images/mysql.svg" width="48">
+### Frameworks
+<div>
+  <img src="images/android.svg" width="48">
+</div>
+
+### Database
+<div>
+  <img src="images/mysql.svg" width="48">
+</div>
