@@ -10,10 +10,26 @@
 
 ### Linguagens
 <div>
-  <img src="images/kotlin.svg" width="48">
-  <img src="images/java.svg" width="48">
-  <img src="images/css3.svg" width="48">
-  <img src="images/html-5.svg" width="48">
+  <img 
+    src="images/kotlin.svg" 
+    width="48"
+  >
+  <img 
+    src="images/java.svg" 
+    width="48"
+  >
+  <img 
+    src="images/javascript.svg" 
+    width="48"
+  >
+  <img 
+    src="images/css3.svg"
+    width="48"
+  >
+  <img 
+    src="images/html-5.svg" 
+    width="48"
+  >
 </div>
 
 ### Frameworks
