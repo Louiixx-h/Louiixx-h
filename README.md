@@ -34,17 +34,32 @@
 
 ### Frameworks
 <div>
-  <img src="images/android.svg" width="48">
+  <img 
+    src="images/android.svg" 
+    width="48"
+  >
 </div>
 
 ### Ferramentas
 <div>
-  <img src="images/vscode.png" width="48">
-  <img src="images/postman.png" width="48">
+  <img 
+    src="images/vscode.png" 
+    width="48"
+  >
+  <img 
+    src="images/postman.png" 
+    width="48"
+  >
 </div>
 
 ### Database
 <div>
-  <img src="images/mysql.svg" width="48">
-  <img src="images/postgresql.svg" width="48">
+  <img 
+    src="images/mysql.svg" 
+    width="48"
+  >
+  <img 
+    src="images/postgresql.svg" 
+    width="48"
+  >
 </div>
