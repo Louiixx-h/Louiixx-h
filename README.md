@@ -47,6 +47,18 @@
     width="48"
   >
   <img 
+    src="images/github.png" 
+    width="48"
+  >
+  <img 
+    src="images/bitbucket.svg" 
+    width="48"
+  >
+  <img 
+    src="images/git.svg" 
+    width="48"
+  >
+  <img 
     src="images/postman.png" 
     width="48"
   >
