@@ -38,6 +38,10 @@
     src="images/android.svg" 
     width="48"
   >
+  <img 
+    src="images/junit5.png" 
+    height="48"
+  >
 </div>
 
 ### Ferramentas
