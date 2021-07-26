@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-louix.sm@gmail.com-e35417?style=flat-square&logo=Gmail&logoColor=white&link=mailto:louix.sm@gmail.com)](mailto:louix.sm@gmail.com)
 
 - Desenvolvedor Android
-- Cofundor da [Devflow](https://www.instagram.com/devflow.br/)
+- Cofundador da [DevflowBR](https://www.instagram.com/devflow.br/)
 - Estudante da tecnologia Android
 
 ### Linguagens
