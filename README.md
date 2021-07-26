@@ -39,6 +39,10 @@
     width="48"
   >
   <img 
+    src="images/reactjs.png" 
+    height="48"
+  >
+  <img 
     src="images/junit5.png" 
     height="48"
   >
