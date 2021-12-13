@@ -3,17 +3,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=malto:louix.sm@gmail.com" /></a>
+  <a href="#" alt="malto:louix.sm@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=malto:louix.sm@gmail.com" />
+  </a>
 
-  <a href="#" alt="Linkedin">
+  <a href="#" alt="https://www.linkedin.com/in/luishenr-m/">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luishenr-m/" /></a>
-
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-  
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
   
   <a href="#" alt="Twitter">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/louishenriqk"/></a>
