@@ -1,12 +1,12 @@
 # Luis Henrique
 
-[![Twitter Badge](https://img.shields.io/badge/-@louishenriqk-e35417?style=flat-square&labelColor=e35417&logo=twitter&logoColor=fffffe&link=https://twitter.com/LuisHen02556571)](https://twitter.com/LuisHen02556571)
-[![Linkedin Badge](https://img.shields.io/badge/-Luis%20Henrique-e35417?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/louis.henrik/)](https://www.instagram.com/louis.henrik/) 
-[![Gmail Badge](https://img.shields.io/badge/-louix.sm@gmail.com-e35417?style=flat-square&logo=Gmail&logoColor=white&link=mailto:louix.sm@gmail.com)](mailto:louix.sm@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@louishenriqk-1d9bf0?style=flat-square&labelColor=1d9bf0&logo=twitter&logoColor=fffffe&link=https://twitter.com/LuisHen02556571)](https://twitter.com/LuisHen02556571)
+[![Linkedin Badge](https://img.shields.io/badge/-Luis%20Henrique-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luishenr-m/)](https://www.linkedin.com/in/luishenr-m/) 
+[![Gmail Badge](https://img.shields.io/badge/-louix.sm@gmail.com-d03e30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:louix.sm@gmail.com)](mailto:louix.sm@gmail.com)
 
-- Desenvolvedor Android
-- Cofundador da [DevflowBR](https://www.instagram.com/devflow.br/)
-- Estudante da tecnologia Android
+- Desenvolvedor Android Nativo
+- Técnico em Automação Industrial
+- GameDev nas horas vagas
 
 ### Linguagens
 <div>
@@ -37,10 +37,6 @@
   <img 
     src="images/android.svg" 
     width="48"
-  >
-  <img 
-    src="images/reactjs.png" 
-    height="48"
   >
   <img 
     src="images/junit5.png" 
