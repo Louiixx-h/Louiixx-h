@@ -47,4 +47,4 @@
 <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
 </div>
 
-[![Louiixx-h](https://github-readme-stats.vercel.app/api?username=Louiixx-h&theme=dark)](https://github.com/Louiixx-h/)
+[![Louiixx-h](https://github-readme-stats.vercel.app/api?username=Louiixx-h)](https://github.com/Louiixx-h/)
