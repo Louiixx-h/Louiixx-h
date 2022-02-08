@@ -19,12 +19,12 @@
 </p>
 
 <p align="left">
-  ⚙ Técnico em Automação Industrial
-</p>
+  🎮 GameDev
+</p> 
 
 <p align="left">
-  🎮 GameDev nas horas vagas
-</p> 
+  ⚙ Técnico em Automação Industrial
+</p>
 
 #### 🚀 Skills
 <div>
