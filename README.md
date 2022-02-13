@@ -15,15 +15,15 @@
 </p> 
 
 <p align="left">
-  💼 Desenvolvedor Android Nativo
+  💼 Android Developer
 </p>
 
 <p align="left">
-  🎮 GameDev
+  🎮 Game Developer
 </p> 
 
 <p align="left">
-  ⚙ Técnico em Automação Industrial
+  ⚙ Industrial Automation Technician
 </p>
 
 #### 🚀 Skills
