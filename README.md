@@ -1,4 +1,4 @@
-# Luis Henrique
+# Hello there, I'm Luis Henrique!
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
@@ -13,7 +13,7 @@
   <a href="https://twitter.com/louishenriqk" alt="https://twitter.com/louishenriqk">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/louishenriqk"/></a>
   
-  <a href="https://twitter.com/louishenriqk" alt="https://twitter.com/louishenriqk">
+  <a href="https://twitter.com/louishenriqk" alt="https://luis-henrique.dev">
   <img src="https://img.shields.io/badge/Site-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=website&logoColor=white&link=https://twitter.com/louishenriqk"/></a>
 </p> 
 
