@@ -1,6 +1,8 @@
-# Hello there, I'm Luis Henrique!
+<h1 align="center">
+  Hello there, I'm Luis Henrique!
+</h1>
 
-<p align="left">
+<p align="center">
   <a href="malto:louix.sm@gmail.com" alt="malto:louix.sm@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=malto:louix.sm@gmail.com" />
   </a>
@@ -15,17 +17,14 @@
   <img src="https://img.shields.io/badge/Site-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=website&logoColor=white&link=https://twitter.com/louishenriqk"/></a>
 </p> 
 
-<p align="left">
-  💼 Android Developer
-</p>
+I'm an Android developer, I have 3 years of experience with java and 2 years with Kotlin. In addition, I have experience with MVVM, MVP, Clean Architecture and good practices such as SOLID and Clean Code.
 
-<p align="left">
-  🎮 Game Developer
-</p> 
+<h3 align="center">
+  What do I want to achieve?
+</h3>
+  
+My career plan aims to become an Android specialist, deliver excellent work and be a reference in the technology field.
 
-<p align="left">
-  ⚙ Industrial Automation Technician
-</p>
 
 #### 🚀 Languages
 <div>
