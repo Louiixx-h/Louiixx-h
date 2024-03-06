@@ -29,6 +29,7 @@ My career plan aims to become an Android specialist, deliver excellent work and 
 #### 🚀 Languages
 <div>
 <img height="40" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+  <img height="40" src="https://img.shields.io/badge/Java-0095D5?&style=for-the-badge&logo=java&logoColor=white">
 <img height="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img height="40" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
