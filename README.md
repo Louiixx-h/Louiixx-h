@@ -21,13 +21,5 @@ I'm Software Engineer with expertise in native Android development (Kotlin, Java
   <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=website&logoColor=white&link=http://luislabs.com"/></a>
 </div> 
 
-### 🚀 My Stack
-<div align="left">
-  <img height="40" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-  <img height="40" src="https://img.shields.io/badge/Java-0095D5?&style=for-the-badge&logo=java&logoColor=white">
-  <img height="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img height="40" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-  <img height="40" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-  <img height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img height="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
+### 🚀 My Skills
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,unity,androidstudio,bash,cs,dotnet,figma,firebase,git,github,githubactions,gradle,jenkins,javascript,html,css)](https://skillicons.dev)
