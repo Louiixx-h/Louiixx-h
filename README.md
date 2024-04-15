@@ -33,7 +33,7 @@ I'm a Software Engineer with expertise in native Android development (Kotlin, Ja
 
 - 👨‍💻 All of my game projects are available at [Itchio](https://louiixx-h.itch.io/)
 
-- 💬 Ask me about **Android, Game Dev, Kolin and Design Patterns**
+- 💬 Ask me about **Android, Game Dev, Kotlin**
 
 - 📫 How to reach me **louix.sm@gmail.com**
 
