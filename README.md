@@ -13,16 +13,16 @@ I'm a Software Engineer with expertise in native Android development (Kotlin, Ja
 </p>
 
 <div align="center">
-  <a href="mailto:louix.sm@gmail.com">
+  <a href="mailto:louix.sm@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:louix.sm@gmail.com" alt="icon" />
   </a>
-  <a href="https://www.linkedin.com/in/luishenr-m/">
+  <a href="https://www.linkedin.com/in/luishenr-m/" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luishenr-m/" alt="icon" />
   </a>
-  <a href="https://twitter.com/louishenriqk">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/louishenriqk" alt="icon" />
+  <a href="https://twitter.com/louishenriqk" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/Louiixx_h" alt="icon" />
   </a>
-  <a href="http://luislabs.com">
+  <a href="http://luislabs.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=website&logoColor=white&link=http://luislabs.com" alt="icon" />
   </a>
 </div>
