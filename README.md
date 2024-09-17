@@ -52,4 +52,4 @@ I'm a Software Engineer with expertise in native Android development (Kotlin, Ja
 <br/>
 
 <h3>🚀 My Skills</h3>
-<img style="display: block; margin: auto;" src="https://skillicons.dev/icons?i=java,kotlin,unity,androidstudio,bash,cs,dotnet,figma,firebase,git,github,githubactions,gradle,jenkins,javascript,html,css"/>
+<img style="display: block; margin: auto;" src="https://skillicons.dev/icons?i=java,eclipse,kotlin,idea,unity,rider,visualstudio,androidstudio,bash,cs,dotnet,figma,firebase,git,github,githubactions,gradle,jenkins,javascript,vscode,npm,html,css,md,mysql,notion"/>
