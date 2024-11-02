@@ -8,9 +8,9 @@ Hello there, I'm Luis Henrique!
 I'm a Software Engineer with expertise in native Android development (Kotlin, Java) and Unity game development. Eager to connect and collaborate with fellow enthusiasts in the tech community!
 </p>
 
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=Louiixx-h&label=Profile%20views&color=0e75b6&style=flat" /> 
-</p>
+<div align="center">
+<a href="https://www.buymeacoffee.com/louixsmy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</div>
 
 <div align="center">
   <a href="mailto:louix.sm@gmail.com" target="_blank">
